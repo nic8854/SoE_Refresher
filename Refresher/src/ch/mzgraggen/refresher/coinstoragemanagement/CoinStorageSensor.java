@@ -26,3 +26,4 @@ public class CoinStorageSensor {
         return new int[] {5, 2, 1, 50};
     }
 }
+
